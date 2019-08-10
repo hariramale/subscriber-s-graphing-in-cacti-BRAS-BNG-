@@ -1,6 +1,6 @@
 #OID value for juniper
 ##Active Subscriber Summary
-.1.3.6.1.4.1.2636.3.64.1.1.1.2
+.1.3.6.1.4.1.2636.3.64.1.1.1.2.0
 
 ##find ifindex for phy & demux of interface
 1.3.6.1.4.1.2636.3.64.1.1.1.3.1.14.0
